@@ -7,6 +7,8 @@ const Sidebar = () => {
   return (
     <StyledSidebar>
       <Link to="/woodcutting">Woodcutting</Link>
+      <p></p>
+      <Link to="/fishing">Fishing</Link>
     </StyledSidebar>
   );
 };
