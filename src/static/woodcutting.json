@@ -1,0 +1,49 @@
+{
+  "axe": {
+    "iron": 5,
+    "steel": 10,
+    "black": 20,
+    "mithril": 30,
+    "adamant": 35,
+    "rune": 40,
+    "dragon": 50
+  },
+  "tree": {
+    "normal": {
+      "exp": 10,
+      "time": 3
+    },
+    "oak": {
+      "exp": 15,
+      "time": 4
+    },
+    "willow": {
+      "exp": 22,
+      "time": 5
+    },
+    "teak": {
+      "exp": 30,
+      "time": 6
+    },
+    "maple": {
+      "exp": 40,
+      "time": 8
+    },
+    "mahogany": {
+      "exp": 60,
+      "time": 10
+    },
+    "yew": {
+      "exp": 80,
+      "time": 12
+    },
+    "magic": {
+      "exp": 100,
+      "time": 20
+    },
+    "redwood": {
+      "exp": 180,
+      "time": 15
+    }
+  }
+}
